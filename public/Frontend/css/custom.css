@@ -1,0 +1,28 @@
+.cate-img{
+    padding: 0 0px;
+  float: none;
+  width: 100%;
+  height: 250px;
+}
+
+.cate-img-prod{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.card:hover{
+  opacity: 80%;
+}
+.slider-img{
+    padding: 0 0px;
+  float: none;
+  width: 100%;
+  height: 400px;
+}
+*{
+  font-family: 'Roboto', sans-serif;
+}
